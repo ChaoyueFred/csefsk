@@ -1,4 +1,4 @@
-'''This is the Homework2 of CS6233 SectionB, offered by prof. Katz
+'''This is the Homework2 of CS6233.
 The program is a file system checker, called "csefsk". It is used to check the following things:
 1) DeviceID is correct
 2) All times are in the past, nothing in the future
